@@ -1,2 +1,2 @@
 # Class-Work
-All class works
+All class work
